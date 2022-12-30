@@ -26,7 +26,7 @@ afterEvaluate {
         repositories {
             maven {
                 name = "GitHubPackages"
-                url = "https://maven.pkg.github.com/mobinators/testlibrary"
+                url = "https://github.com/mobinators/testlibrary"
                 credentials {
                     username = "mobinators"
                     password = "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"
